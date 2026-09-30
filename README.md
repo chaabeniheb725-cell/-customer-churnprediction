@@ -67,7 +67,7 @@ The following models were evaluated:
 
 XGBoost was further optimized using Optuna.
 
-## 📈 Results
+## Results
 
 The optimized XGBoost model achieved:
 
